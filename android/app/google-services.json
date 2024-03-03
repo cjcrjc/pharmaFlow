@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "294182792415",
+    "firebase_url": "https://pharmaflow-49486-default-rtdb.firebaseio.com",
+    "project_id": "pharmaflow-49486",
+    "storage_bucket": "pharmaflow-49486.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294182792415:android:bca485d1c2d89b40648d6a",
+        "android_client_info": {
+          "package_name": "com.example.pharmacyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294182792415-85copo41ta55qtf1if1ukomh4h0tgd6p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBNEmgPty-iAYx1sIu8CpwuFCslUs5fKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294182792415-85copo41ta55qtf1if1ukomh4h0tgd6p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "294182792415-3nu0hmgbptjfrjpgcmhpi13k4qcas13d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pharmaflow"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
